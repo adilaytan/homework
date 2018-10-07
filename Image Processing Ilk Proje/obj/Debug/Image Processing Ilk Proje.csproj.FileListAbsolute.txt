@@ -1,0 +1,39 @@
+C:\Users\Gamer\Desktop\Image Processing Ilk Proje\Image Processing Ilk Proje\bin\Debug\Image Processing Ilk Proje.exe.config
+C:\Users\Gamer\Desktop\Image Processing Ilk Proje\Image Processing Ilk Proje\bin\Debug\Image Processing Ilk Proje.exe
+C:\Users\Gamer\Desktop\Image Processing Ilk Proje\Image Processing Ilk Proje\bin\Debug\Image Processing Ilk Proje.pdb
+C:\Users\Gamer\Desktop\Image Processing Ilk Proje\Image Processing Ilk Proje\obj\Debug\Image Processing Ilk Proje.csprojResolveAssemblyReference.cache
+C:\Users\Gamer\Desktop\Image Processing Ilk Proje\Image Processing Ilk Proje\obj\Debug\Image_Processing_Ilk_Proje.Form1.resources
+C:\Users\Gamer\Desktop\Image Processing Ilk Proje\Image Processing Ilk Proje\obj\Debug\Image_Processing_Ilk_Proje.Properties.Resources.resources
+C:\Users\Gamer\Desktop\Image Processing Ilk Proje\Image Processing Ilk Proje\obj\Debug\Image Processing Ilk Proje.csproj.GenerateResource.Cache
+C:\Users\Gamer\Desktop\Image Processing Ilk Proje\Image Processing Ilk Proje\obj\Debug\Image Processing Ilk Proje.exe
+C:\Users\Gamer\Desktop\Image Processing Ilk Proje\Image Processing Ilk Proje\obj\Debug\Image Processing Ilk Proje.pdb
+C:\Users\Gamer\Desktop\Image Processing Ilk Proje\Image Processing Ilk Proje\obj\Debug\Image_Processing_Ilk_Proje.Form2.resources
+C:\Users\Gamer\Desktop\Image Processing Ilk Proje\Image Processing Ilk Proje\obj\Debug\Image_Processing_Ilk_Proje.Form3.resources
+C:\Users\Gamer\Desktop\Image Processing Ilk Proje\Image Processing Ilk Proje\obj\Debug\Image_Processing_Ilk_Proje.Form4.resources
+C:\Users\Gamer\Desktop\Yeni klasör (17)\Image Processing Ilk Proje\bin\Debug\Image Processing Ilk Proje.exe.config
+C:\Users\Gamer\Desktop\Yeni klasör (17)\Image Processing Ilk Proje\obj\Debug\Image Processing Ilk Proje.exe
+C:\Users\Gamer\Desktop\Yeni klasör (17)\Image Processing Ilk Proje\obj\Debug\Image Processing Ilk Proje.pdb
+C:\Users\Gamer\Desktop\Yeni klasör (17)\Yeni klasör\Image Processing Ilk Proje\bin\Debug\Image Processing Ilk Proje.exe.config
+C:\Users\Gamer\Desktop\Yeni klasör (17)\Yeni klasör\Image Processing Ilk Proje\obj\Debug\Image Processing Ilk Proje.exe
+C:\Users\Gamer\Desktop\Yeni klasör (17)\Yeni klasör\Image Processing Ilk Proje\obj\Debug\Image Processing Ilk Proje.pdb
+C:\Users\Gamer\Desktop\Yeni klasör (17)\Yeni klasör\Image Processing Ilk Proje\bin\Debug\Image Processing Ilk Proje.exe
+C:\Users\Gamer\Desktop\Yeni klasör (17)\Yeni klasör\Image Processing Ilk Proje\bin\Debug\Image Processing Ilk Proje.pdb
+C:\Users\Gamer\Desktop\Yeni klasör (17)\Yeni klasör\Image Processing Ilk Proje\obj\Debug\Image Processing Ilk Proje.csprojResolveAssemblyReference.cache
+C:\Users\Gamer\Desktop\Yeni klasör (17)\Yeni klasör\Image Processing Ilk Proje\obj\Debug\Image_Processing_Ilk_Proje.Form1.resources
+C:\Users\Gamer\Desktop\Yeni klasör (17)\Yeni klasör\Image Processing Ilk Proje\obj\Debug\Image_Processing_Ilk_Proje.Form2.resources
+C:\Users\Gamer\Desktop\Yeni klasör (17)\Yeni klasör\Image Processing Ilk Proje\obj\Debug\Image_Processing_Ilk_Proje.Form3.resources
+C:\Users\Gamer\Desktop\Yeni klasör (17)\Yeni klasör\Image Processing Ilk Proje\obj\Debug\Image_Processing_Ilk_Proje.Form4.resources
+C:\Users\Gamer\Desktop\Yeni klasör (17)\Yeni klasör\Image Processing Ilk Proje\obj\Debug\Image_Processing_Ilk_Proje.Properties.Resources.resources
+C:\Users\Gamer\Desktop\Yeni klasör (17)\Yeni klasör\Image Processing Ilk Proje\obj\Debug\Image Processing Ilk Proje.csproj.GenerateResource.Cache
+C:\Users\Gamer\Desktop\Yeni klasör (17)\homework\Image Processing Ilk Proje\bin\Debug\Image Processing Ilk Proje.exe.config
+C:\Users\Gamer\Desktop\Yeni klasör (17)\homework\Image Processing Ilk Proje\obj\Debug\Image Processing Ilk Proje.exe
+C:\Users\Gamer\Desktop\Yeni klasör (17)\homework\Image Processing Ilk Proje\obj\Debug\Image Processing Ilk Proje.pdb
+C:\Users\Gamer\Desktop\Yeni klasör (17)\homework\Image Processing Ilk Proje\bin\Debug\Image Processing Ilk Proje.exe
+C:\Users\Gamer\Desktop\Yeni klasör (17)\homework\Image Processing Ilk Proje\bin\Debug\Image Processing Ilk Proje.pdb
+C:\Users\Gamer\Desktop\Yeni klasör (17)\homework\Image Processing Ilk Proje\obj\Debug\Image Processing Ilk Proje.csprojResolveAssemblyReference.cache
+C:\Users\Gamer\Desktop\Yeni klasör (17)\homework\Image Processing Ilk Proje\obj\Debug\Image_Processing_Ilk_Proje.Form1.resources
+C:\Users\Gamer\Desktop\Yeni klasör (17)\homework\Image Processing Ilk Proje\obj\Debug\Image_Processing_Ilk_Proje.Form2.resources
+C:\Users\Gamer\Desktop\Yeni klasör (17)\homework\Image Processing Ilk Proje\obj\Debug\Image_Processing_Ilk_Proje.Form3.resources
+C:\Users\Gamer\Desktop\Yeni klasör (17)\homework\Image Processing Ilk Proje\obj\Debug\Image_Processing_Ilk_Proje.Form4.resources
+C:\Users\Gamer\Desktop\Yeni klasör (17)\homework\Image Processing Ilk Proje\obj\Debug\Image_Processing_Ilk_Proje.Properties.Resources.resources
+C:\Users\Gamer\Desktop\Yeni klasör (17)\homework\Image Processing Ilk Proje\obj\Debug\Image Processing Ilk Proje.csproj.GenerateResource.Cache
