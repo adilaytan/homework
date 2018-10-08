@@ -140,7 +140,7 @@ namespace Image_Processing_Ilk_Proje
                 for (int x = 0; x < wid; x++)
                 {
                     Color select = kaynak.GetPixel(x, y);
-                    Color gr = Color.FromArgb(0, select.G, select.B); // Red kanalı çıkarıldı
+                    Color gr = Color.FromArgb(select.R,select.R,select.R); // Red kanalı çıkarıldı
                     islem.SetPixel(x, y, gr);
                 }
             }
